@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on creat
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, Tailwindcss, JavaScript, React
 - **Backend:** Node.js, Express, GraphQL, RESTful APIs
 - **Databases:** MongoDB, MySQL
 - **Others:** Git, MVC architecture
