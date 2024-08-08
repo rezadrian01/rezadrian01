@@ -1,6 +1,18 @@
 # Hi there, I'm Ahmad Reza Adrian 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/rezadrian01?label=Follow&style=social)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadrian01&hide=php&layout=compact)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezadrian01&border_radius=5.0)](https://git.io/streak-stats)
+
+
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rezadrian01" />
+</a>
+-->
 
 Welcome to my GitHub profile! I’m a passionate developer with a focus on creating efficient and scalable web applications. I love working with modern web technologies and constantly learning new things to improve my skills.
 
@@ -51,4 +63,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rezadrian01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rezadrian01&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 -->
