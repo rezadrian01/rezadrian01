@@ -1,6 +1,7 @@
 # Hi there, I'm Ahmad Reza Adrian 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/rezadrian01?label=Follow&style=social)
+<a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=rezadrian01)](https://github.com/rezadrian01)</a> 
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadrian01&hide=php&layout=compact)
 <br/>
