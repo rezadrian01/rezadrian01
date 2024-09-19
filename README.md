@@ -8,7 +8,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=rezadrian01&border_radius=5.0)](https://git.io/streak-stats)
 
 
-
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rezadrian01" />
@@ -18,7 +17,7 @@
 <!--Welcome to my GitHub profile! I’m a passionate developer with a focus on creating efficient and scalable web applications. I love working with modern web technologies and constantly learning new things to improve my skills.-->
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,npm,vite,redux,webpack,react,nextjs,nodejs,express,mongodb,mysql,graphql,postman,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,npm,vite,redux,webpack,react,nextjs,nodejs,express,python,mongodb,mysql,graphql,postman,git,github,vscode)](https://skillicons.dev)
 <!--
 - **Frontend:** HTML, CSS, Tailwindcss, JavaScript, React
 - **Backend:** Node.js, Express, GraphQL, RESTful APIs
@@ -27,8 +26,9 @@
 -->
 ## 🌱 Currently Learning
 
-- React
-- Next.js
+- Python
+- Data Science
+- Machine Learning
 
 ## 🚀 Projects
 
