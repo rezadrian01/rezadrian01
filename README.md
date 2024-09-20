@@ -30,13 +30,13 @@
 - Data Science
 - Machine Learning
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 ### Coffee Shop Application
 The Coffee Shop Application is a user-friendly platform designed to enhance the coffee ordering experience. With its sleek interface and robust features, customers can effortlessly order their favorite beverages, manage their accounts, keep track of their cart, and view their purchase history.
 
 - **Tech Stack:** HTML, CSS, JS, PHP
-- **Features:** Ordering, Cart, History
+- **Features:** Ordering, Cart, History -->
 
 ## 📫 How to Reach Me
 
