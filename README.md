@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rezadrian01?label=Follow&style=social)
 <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=rezadrian01)](https://github.com/rezadrian01)</a> 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadrian01&hide=php&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadrian01&exclude_repo=coffeflash.github.io&layout=compact&langs_count=15)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=rezadrian01&border_radius=5.0)](https://git.io/streak-stats)
 
