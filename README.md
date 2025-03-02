@@ -25,10 +25,8 @@
 - **Others:** Git, MVC architecture
 -->
 ## 🌱 Currently Learning
-
-- Python
-- Data Science
 - Machine Learning
+- Natural Language Processing
 
 <!-- ## 🚀 Projects
 
