@@ -27,8 +27,8 @@
 - **Others:** Git, MVC architecture
 -->
 ## 🌱 Currently Learning
-- Machine Learning
-- Natural Language Processing
+- Docker
+- Kubernetes
 
 <!-- ## 🚀 Projects
 
