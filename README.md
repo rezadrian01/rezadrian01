@@ -19,7 +19,7 @@
 <!--Welcome to my GitHub profile! I’m a passionate developer with a focus on creating efficient and scalable web applications. I love working with modern web technologies and constantly learning new things to improve my skills.-->
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,npm,pnpm,vite,redux,webpack,react,nextjs,nodejs,express,java,rust,python,sklearn,anaconda,mongodb,mysql,postgres,prisma,supabase,graphql,vercel,stackoverflow,postman,git,github,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,npm,pnpm,vite,redux,webpack,react,nextjs,nodejs,express,php,laravel,go,python,sklearn,anaconda,docker,kubernetes,aws,gcp,mongodb,mysql,postgres,sqlite,prisma,supabase,graphql,vercel,stackoverflow,postman,git,github,vscode,pycharm,phpstorm,webstorm,androidstudio,bash,windows,linux,redhat)](https://skillicons.dev)
 <!--
 - **Frontend:** HTML, CSS, Tailwindcss, JavaScript, React
 - **Backend:** Node.js, Express, GraphQL, RESTful APIs
