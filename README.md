@@ -2,12 +2,15 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/rezadrian01?label=Follow&style=social)
 <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=rezadrian01)](https://github.com/rezadrian01)</a> 
+[![wakatime](https://wakatime.com/badge/user/204184d0-d84c-4723-85af-45acec077244.svg)](https://wakatime.com/@204184d0-d84c-4723-85af-45acec077244)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadrian01&exclude_repo=coffeflash.github.io&layout=compact&langs_count=15)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=rezadrian01&border_radius=5.0)](https://git.io/streak-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rezadrian01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rezadrian01&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<br/>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rezadrian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
